@@ -1,0 +1,6 @@
+dataset/processed/
+dataset/raw/
+models/bilstm_model_raw.keras
+models/lstm_model_raw.keras
+models/rf_model_raw.pkl
+
